@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tarifast</string>
+    <string name="btn_anadirresidencia">Añadir Residencia</string>
+    <string name="btn_verresidencia">Ver Residencia</string>
 </resources>
